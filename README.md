@@ -2,6 +2,24 @@
 
 A bot you can trust!
 
+Add it to your Telegram chat list using:
+t.me/TrueMetalPabluBot
+
+## Project description:
+
+This little project is a Telegram Bot in node that runs in Firebase and is hosted on Google Cloud. The objective is to explore all these technologies while creating a product that would be useful for myself.
+
+I would like to give the Bot a couple of functionalities:
+
+- Give me the weather (this works now)
+- Give me the current time at a specific location
+- Send me a 'reminder message' that I can manually setup, i.e 'remind me of x in x minutes on on x date'
+- Be a chat companion (return good quotes, or just good for a chat)
+
+### Current issues
+
+1. The main difficulty I'm facing is that the Bot seems to go to sleep after a while and it doesn't wake up unless I redeploy. I feel that I know why it's happening but I still need to go over the documentation.
+
 ## Installation requirements
 
 ## Firebase installation
