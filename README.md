@@ -20,6 +20,10 @@ I would like to give the Bot a couple of functionalities:
 
 1. The main difficulty I'm facing is that the Bot seems to go to sleep after a while and it doesn't wake up unless I redeploy. I feel that I know why it's happening but I still need to go over the documentation.
 
+2. I initially set up the firebase on Typescript, but then I ran into some problems with the compiler (just a local misconfig on the laptop I'm using for this) so I started to code directly on the JS file. Firebase still runs the code through ESLINT (does it always do it or it's because of the initial typescript?).
+
+Therefore, the file tree is a little sloppy. I plan to fix it when my laptop situation improves in a couple of weeks - And you will see this text anymore)
+
 ## Installation requirements
 
 ## Firebase installation
